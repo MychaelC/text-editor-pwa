@@ -27,7 +27,7 @@ Text-Editor is a single-page application that meets the Progressive Web Applicat
 
 # What It Looks Like
 
-Visit live link [HERE]()
+Visit live link [HERE](https://guarded-crag-04701.herokuapp.com/)
 ![screenshot]()
 
 # Technology
